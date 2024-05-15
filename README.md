@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Strings-1
 
 ## Problem1 
@@ -9,3 +10,6 @@ Custom Sort String (https://leetcode.com/problems/custom-sort-string/)
 
 Longest Substring Without Repeating Characters(https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
+=======
+# Competetive-Coding-10
+>>>>>>> Competitive-Coding-10/master
